@@ -3,4 +3,5 @@
 data/
 model.pt
 .dvcignore
-/dvclive
+dvclive/**
+!dvclive/.keep
